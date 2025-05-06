@@ -1,0 +1,19 @@
+1. ass1 student por
+
+2. ass2 student performance
+
+3. ass3 iris
+
+4. ass4 boston housing dataset
+
+5. ass5 social network ads
+
+6. ass6  iris
+
+7. ass7
+
+8. ass8 titanic dataset
+
+9. ass9 titanic dataset
+
+10. ass10 iris
