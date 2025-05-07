@@ -1,0 +1,7 @@
+import nltk
+print(nltk.__version__)
+
+nltk.download('punkt_tab')
+
+nltk.download('punkt')
+
